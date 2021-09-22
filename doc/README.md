@@ -4,7 +4,7 @@
 ![imagem 1](doc/assets/imagem.jpeg)
 
 
-## Relativo root com /
+## Absoluto root com /
 ![imagem 1](/doc/assets/imagem.jpeg)
 
 ## Relativo
